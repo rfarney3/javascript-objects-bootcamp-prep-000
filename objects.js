@@ -1,2 +1,6 @@
 var playlist = {};
-playlist.
+
+
+function updatePlaylist(obj, name, title) {
+  
+}

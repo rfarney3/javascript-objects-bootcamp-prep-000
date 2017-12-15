@@ -1,4 +1,4 @@
-var playlist = {};
+var playlist = {name};
 
 function updatePlaylist(playlist, name, title) {
   var obj = {};
